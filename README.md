@@ -5,7 +5,7 @@ Hello Everyone.
 I present OpenMelita, a group of developers making a firmware for your TV Box.
 
 This Respitory is not fully ready yet.
-We are searching for developers.
+We are searching for more developers.
 
 Check back Again Soon:)
 
