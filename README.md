@@ -62,6 +62,9 @@ Can be flashed easily with usb upgrade in settings.
 
 Check back soon!
 
+Wanna join the discord community?
+https://discord.gg/jmGSnDnu
+
 Wanna Donate?
 paypal.me/ZaynliamPolidano
 
