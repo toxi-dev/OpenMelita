@@ -12,7 +12,7 @@ Specifications:
 
 🔹 CPU / SoC ( Not fully Confirmed. )
 
-Chipset: MStar M3715 (commonly used in DVB / STB units)
+Chipset: MStar M3715 confirmed (commonly used in DVB / STB units)
 
 Architecture: ARM Cortex-A7 (single-core or dual-core depending on revision)
 
